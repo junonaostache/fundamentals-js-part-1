@@ -83,3 +83,29 @@ if (markBMI2 > johnBMI2) {
 // } else if (Dolphins < 100 && Koalas < 100) {
 //   console.log("No one gets the trophy :(");
 // }
+
+//4TH CODING CHALLENGE
+// let bill = 275;
+// let tip;
+// tip = bill >= 50 && bill <= 300 ? bill * 0.15 : bill * 0.2;
+// console.log(
+//   `The bill was ${bill}, the tip was ${tip} and the total value was ${
+//     bill + tip
+//   }.`
+// );
+
+// bill = 40;
+// tip = bill >= 50 && bill <= 300 ? bill * 0.15 : bill * 0.2;
+// console.log(
+//   `The bill was ${bill}, the tip was ${tip} and the total value was ${
+//     bill + tip
+//   }.`
+// );
+
+// bill = 430;
+// tip = bill >= 50 && bill <= 300 ? bill * 0.15 : bill * 0.2;
+// console.log(
+//   `The bill was ${bill}, the tip was ${tip} and the total value was ${
+//     bill + tip
+//   }.`
+// );
